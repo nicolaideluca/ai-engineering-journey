@@ -9,3 +9,4 @@ My 292-day path to becoming an AI Engineer.
 
 - [x] Day 1: Dev environment setup
 - [ ] Day 2: Git basics
+- [ ] Day 3: Git branching
